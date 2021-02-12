@@ -9,6 +9,6 @@ fi
 
 export LOADUPDIR=$MEDLEYDIR
 
-./run-medley -greet $MEDLEYDIR/makesysout/MAKEFULLSYSOUT.LCOM $MEDLEYDIR/loadups/xlisp.sysout
+./run-medley -greet $MEDLEYDIR/sources/LOADUP-FULL.LCOM $MEDLEYDIR/loadups/xlisp.sysout
 
 
